@@ -22,3 +22,15 @@ The project can help organizations proactively identify:
 - Suspicious login patterns
 
 ---
+
+# 🚀 Features
+
+- Machine Learning-based anomaly detection
+- XGBoost classification model
+- FastAPI integration for prediction APIs
+- Exploratory Data Analysis (EDA)
+- Outlier detection techniques
+- Supervised & unsupervised anomaly detection
+- Model serialization using Pickle
+- Jupyter Notebook experimentation
+- Scalable architecture for future deployment
