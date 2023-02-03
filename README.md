@@ -52,3 +52,25 @@ The project can help organizations proactively identify:
 - FastAPI
 - Jupyter Notebook
 - Git & GitHub
+
+---
+
+# 📂 Project Structure
+
+```bash
+anomaly-detection/
+│
+├── notebooks/
+│   ├── anomaly_detection.ipynb
+│   ├── outlier_user.ipynb
+│   └── unsupervised.ipynb
+│
+├── app/
+│   └── fast_api.py
+│
+├── models/
+│   └── regressor_model.pkl
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
