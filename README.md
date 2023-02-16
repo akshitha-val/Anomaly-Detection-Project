@@ -11,7 +11,7 @@ This project focuses on detecting anomalous login behavior by analyzing user act
 The system assigns an **anomaly score between 1–10** to each login event.
 
 - **Score < 3** → Normal Activity  
-- **Score ≥ 3** → Anomalous Activity ⚠️
+- **Score ≥ 3** → Anomalous Activity 
 
 The project can help organizations proactively identify:
 
