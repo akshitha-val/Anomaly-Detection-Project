@@ -4,7 +4,7 @@ An intelligent machine learning-based anomaly detection system designed to ident
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project focuses on detecting anomalous login behavior by analyzing user activity patterns such as login frequency, IP behavior, device usage, failed attempts, session timing, and geographical inconsistencies.
 
