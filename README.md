@@ -23,7 +23,7 @@ The project can help organizations proactively identify:
 
 ---
 
-# 🚀 Features
+# Features
 
 - Machine Learning-based anomaly detection
 - XGBoost classification model
