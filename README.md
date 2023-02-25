@@ -34,3 +34,23 @@ The project can help organizations proactively identify:
 - Model serialization using Pickle
 - Jupyter Notebook experimentation
 - Scalable architecture for future deployment
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+
+## Frameworks & Tools
+- FastAPI
+- Jupyter Notebook
+- Git & GitHub
+
+---
