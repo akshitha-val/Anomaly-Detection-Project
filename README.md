@@ -37,7 +37,7 @@ The project can help organizations proactively identify:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Languages & Libraries
 - Python
