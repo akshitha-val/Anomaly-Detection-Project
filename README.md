@@ -55,7 +55,7 @@ The project can help organizations proactively identify:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 anomaly-detection/
